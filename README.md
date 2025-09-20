@@ -142,7 +142,7 @@ Note: When pasting in the terminal, it may appear invisible — this is normal.
 
 Just right-click and click enter.
 
-Wait 5-10 minutes and done claim your role and delete or remove your PAT token And delete repo from vps.
+Wait 2-3 minutes and done claim your role and delete or remove your PAT token And delete repo from vps.
 
 ---
 
