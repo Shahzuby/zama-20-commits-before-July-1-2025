@@ -17,15 +17,17 @@ cd ~
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ```
+> chnage your username with your github username and change repo with zama20.
 
 3. Configure Git user (if not already set):
 
 ```bash
-git config --global user.name "YourName"
+git config --global user.name "Yourusername"
 git config --global user.email "you@example.com"
 ```
+replace Yourusername and you@example.com by your original github username and email
 
-4. Add commits by appending to `README.md`. Example commands:
+4. Now run this command:
 
 ```bash
 echo "Commit 1 line" >> README.md
