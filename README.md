@@ -25,7 +25,7 @@ cd your-repo
 git config --global user.name "Yourusername"
 git config --global user.email "you@example.com"
 ```
-replace Yourusername and you@example.com by your original github username and email
+> replace Yourusername and you@example.com by your original github username and email
 
 4. Now run this command:
 
