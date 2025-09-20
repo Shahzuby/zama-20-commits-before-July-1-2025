@@ -1,8 +1,9 @@
 # Zama "20 Commits" Bypass
 
 > 500 MB to 1 GB of RAM is sufficient.
+
 > 2–4 GB of storage is enough
-> 2-4gb storage is enough
+
 > You can even use your local PC for this, as it’s just a 5-minute task
 
 ---
