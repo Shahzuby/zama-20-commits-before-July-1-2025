@@ -1,6 +1,9 @@
 # Zama "20 Commits" Bypass
 
-> **Purpose:** This repository provides a simple, step-by-step guide to quickly generate 20 commits on GitHub. It can help simulate tasks like `Zama Dev Guild`'s "10 Commits Before 10 July" challenge — intended for **learning and testing purposes only**.
+> 500 MB to 1 GB of RAM is sufficient.
+> 2–4 GB of storage is enough
+> 2-4gb storage is enough
+> You can even use your local PC for this, as it’s just a 5-minute task
 
 ---
 
@@ -27,7 +30,7 @@ git config --global user.email "you@example.com"
 ```
 > replace Yourusername and you@example.com by your original github username and email
 
-4. Now run this command:
+4. Now run this command local or vps your choise: 
 
 ```bash
 echo "Commit 1 line" >> README.md
