@@ -5,8 +5,12 @@
 ---
 
 ## Step-by-step
-1. Create a new repo on GitHub (example: `20commits`) and tick `Add a README`.
-2. Clone it:
+1. Go to: https://github.com/new
+2. Repository Name: zama20
+3. Tick "Add a README file"
+4. Click Create repository
+
+now goto your vps and do below task.
 
 ```bash
 cd ~
